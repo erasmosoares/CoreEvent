@@ -81,7 +81,3 @@ The next sample is a method publishing MessageTest.
       }
   }
 ```
-
-# Notes
-
-This package is a sample of using the event pattern. This is only an initial version and should not be used for commercial purposes. In the course of the advancements of new versions and the continuous feedback there will be shortly available a complete version.
